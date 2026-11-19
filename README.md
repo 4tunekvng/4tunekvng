@@ -14,12 +14,57 @@ conversation with me. Tap through, or ask anything.
 Lena runs in schools today. Everything else here is live and free to try, and none
 asks you for an API key.
 
-| | |
-|:---|:---|
-| [<img src="assets/lena.jpg" alt="Lena's agent tab listing a teacher's quizzes">](https://lena.africa)<br>**[Lena](https://lena.africa)**: we're building an agent into it. A teacher types one sentence, and it builds the quiz, publishes it and tells the class, each step a card you can check. | [<img src="assets/dsm.jpg" alt="DSM investigating a weekend revenue drop">](https://dsm.fortuneking.dev)<br>**[DSM](https://dsm.fortuneking.dev)**: ask why a number moved. It runs real Python and keeps only the findings that survive counter-evidence. |
-| [<img src="assets/maestro.jpg" alt="Maestro asking for your name before it watches">](https://maestro.fortuneking.dev)<br>**[Maestro](https://maestro.fortuneking.dev)**: an AI tutor that watches you practice any skill, by camera and voice. | [<img src="assets/knox.jpg" alt="Knox">](https://knox.fortuneking.dev)<br>**[Knox](https://knox.fortuneking.dev)**: an agent that fights denied insurance claims. |
-| [<img src="assets/delegate.jpg" alt="Delegate">](https://delegate.fortuneking.dev)<br>**[Delegate](https://delegate.fortuneking.dev)**: other people's agents negotiate plans with yours. | [<img src="assets/apertus.jpg" alt="Apertus">](https://apertus.fortuneking.dev)<br>**[Apertus](https://apertus.fortuneking.dev)**: turn a question about yourself into a clean experiment on yourself. |
-| [<img src="assets/knowledge-compounder.jpg" alt="Knowledge Compounder">](https://knowledge-compounder.fortuneking.dev)<br>**[Knowledge Compounder](https://knowledge-compounder.fortuneking.dev)**: read something, and it turns into flashcards, notes and drafts. | [<img src="assets/morphos.jpg" alt="Morphos">](https://morphos.fortuneking.dev)<br>**[Morphos](https://morphos.fortuneking.dev)**: tell a robot swarm "make a heart" and watch it form, in simulation. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lena.africa"><img src="assets/lena.jpg" alt="Lena's agent tab listing a teacher's quizzes" width="100%"></a><br>
+<b><a href="https://lena.africa">Lena</a></b>: we're building an agent into it. A
+teacher types one sentence, and it builds the quiz, publishes it and tells the class,
+each step a card you can check.
+</td>
+<td width="50%" valign="top">
+<a href="https://dsm.fortuneking.dev"><img src="assets/dsm.jpg" alt="DSM investigating a weekend revenue drop" width="100%"></a><br>
+<b><a href="https://dsm.fortuneking.dev">DSM</a></b>: ask why a number moved. It runs
+real Python and keeps only the findings that survive counter-evidence.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://maestro.fortuneking.dev"><img src="assets/maestro.jpg" alt="Maestro asking for your name before it watches" width="100%"></a><br>
+<b><a href="https://maestro.fortuneking.dev">Maestro</a></b>: an AI tutor that
+watches you practice any skill, by camera and voice.
+</td>
+<td width="50%" valign="top">
+<a href="https://knox.fortuneking.dev"><img src="assets/knox.jpg" alt="Knox" width="100%"></a><br>
+<b><a href="https://knox.fortuneking.dev">Knox</a></b>: an agent that fights denied
+insurance claims.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://delegate.fortuneking.dev"><img src="assets/delegate.jpg" alt="Delegate" width="100%"></a><br>
+<b><a href="https://delegate.fortuneking.dev">Delegate</a></b>: other people's agents
+negotiate plans with yours.
+</td>
+<td width="50%" valign="top">
+<a href="https://apertus.fortuneking.dev"><img src="assets/apertus.jpg" alt="Apertus" width="100%"></a><br>
+<b><a href="https://apertus.fortuneking.dev">Apertus</a></b>: turn a question about
+yourself into a clean experiment on yourself.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://knowledge-compounder.fortuneking.dev"><img src="assets/knowledge-compounder.jpg" alt="Knowledge Compounder" width="100%"></a><br>
+<b><a href="https://knowledge-compounder.fortuneking.dev">Knowledge
+Compounder</a></b>: read something, and it turns into flashcards, notes and drafts.
+</td>
+<td width="50%" valign="top">
+<a href="https://morphos.fortuneking.dev"><img src="assets/morphos.jpg" alt="Morphos" width="100%"></a><br>
+<b><a href="https://morphos.fortuneking.dev">Morphos</a></b>: tell a robot swarm
+"make a heart" and watch it form, in simulation.
+</td>
+</tr>
+</table>
 
 They all run on **[fortune-llm](https://github.com/4tunekvng/fortune-llm)**, an
 open-source gateway that speaks the Anthropic API, tries free model providers first
