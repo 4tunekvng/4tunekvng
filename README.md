@@ -1,8 +1,6 @@
 <a href="https://fortuneking.dev"><img src="assets/banner.jpg" alt="Hey, I'm Fortune. Machine learning engineer at Google on Gemini in Chrome, cofounder of Lena." width="100%"></a>
 
-I'm a machine learning engineer on **Chrome AI at Google**, where we work on safety
-for Gemini in Chrome as it starts doing things on the web for you without getting
-tricked by the pages it reads. Before that, two years on Google Colab, leading
+I'm a machine learning engineer on **Chrome AI at Google**, where we work on Gemini in Chrome as it starts doing things on the web for you. Before that, two years on Google Colab, leading
 context engineering and personalization for its Gemini agent. I'm also a cofounder
 of **[Lena](https://lena.africa)**, software that runs schools around the world.
 
