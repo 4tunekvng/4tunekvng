@@ -42,22 +42,17 @@ insurance claims.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://delegate.fortuneking.dev"><img src="assets/delegate.jpg" alt="Delegate" width="100%"></a><br>
-<b><a href="https://delegate.fortuneking.dev">Delegate</a></b>: other people's agents
-negotiate plans with yours.
-</td>
-<td width="50%" valign="top">
 <a href="https://apertus.fortuneking.dev"><img src="assets/apertus.jpg" alt="Apertus" width="100%"></a><br>
 <b><a href="https://apertus.fortuneking.dev">Apertus</a></b>: turn a question about
 yourself into a clean experiment on yourself.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://knowledge-compounder.fortuneking.dev"><img src="assets/knowledge-compounder.jpg" alt="Knowledge Compounder" width="100%"></a><br>
 <b><a href="https://knowledge-compounder.fortuneking.dev">Knowledge
 Compounder</a></b>: read something, and it turns into flashcards, notes and drafts.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://morphos.fortuneking.dev"><img src="assets/morphos.jpg" alt="Morphos" width="100%"></a><br>
 <b><a href="https://morphos.fortuneking.dev">Morphos</a></b>: tell a robot swarm
