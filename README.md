@@ -8,7 +8,7 @@ Google Colab, on its Gemini agent. I'm also a cofounder of
 The fastest way to know me is **[fortuneking.dev](https://fortuneking.dev)**: talk
 with me, or see what I'm building, reading, and doing in Seattle.
 
-**Building** ([everything, with what moved this week](https://fortuneking.dev/build))
+**Building** ([all of it, research included](https://fortuneking.dev/build))
 
 - [Lena](https://lena.africa): we're building an agent into it. A teacher types one
   sentence, and it builds the quiz.
@@ -19,7 +19,7 @@ with me, or see what I'm building, reading, and doing in Seattle.
 - [Leggo](https://fortuneking.dev/build?item=leggo): plans for your group chats, and
   a nudge about the friends you're drifting from.
 - [fortune-llm](https://github.com/4tunekvng/fortune-llm): the open-source gateway
-  behind Maestro, Leggo and fortuneking.dev, free model providers first.
+  behind Thesis, Maestro, Leggo and fortuneking.dev, free model providers first.
 
 **Path**: Google · Amazon · Fermilab · Northwestern
 
